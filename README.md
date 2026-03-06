@@ -1,4 +1,4 @@
-# Multi-Modal Deep Learning for Breathing Anomaly Detection
+# Deep Learning for Breathing Anomaly Detection
 
 ## Overview
 
@@ -183,3 +183,4 @@ These figures are available in the `visualizations` directory.
 ## Author
 
 Kotipalli Venkata Sriram, B.Tech CSE, IIIT VADODARA
+
